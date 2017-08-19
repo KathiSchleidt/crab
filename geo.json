@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32424152077325,
+	  47.5288404979028
+        ]
+      },
+      "properties": {
+        "identifier": "04398X0002/SONDAG.2",
+        "name": "Forage privé (Bourberain-21)"
+      }
+    }
+  ]
+}
