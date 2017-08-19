@@ -1,0 +1,9 @@
+{
+  "name": "UofC CCIT",
+  "description": "University of Calgary, CCIT building",
+  "encodingType": "application/vnd.geo+json",
+  "feature": {
+    "type": "Point",
+    "coordinates": [-114.133, 51.08]
+  }
+}
